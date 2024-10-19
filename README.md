@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @123Chait
-- 👀 I’m interested in AI, Machine Learning, Data Science, and Web Development
-- 🌱 I’m currently learning optimization algorithms and advanced web frameworks like AngularJS and NodeJS
+- 👀 I’m interested in AI, Machine Learning, Data Science, and Web Development.
+- 🌱 I’m currently learning optimization algorithms and programming languages like Mysql,Python,Nosql.
 - 💞️ I’m looking to collaborate on projects related to predictive modeling, data visualization.
 - 📫 How to reach me: [chaitrasuresh2003@gmail.com]
 - 😄 Pronouns: WonderWoman👌
